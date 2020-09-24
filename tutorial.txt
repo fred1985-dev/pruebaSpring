@@ -1,0 +1,11 @@
+compadre buenas tardes te comparto la prueba que realize
+usando spring-boot y java
+
+este es el tutorial que hice y con ese me guie para hacer la prueba que me enviaron
+https://www.youtube.com/watch?v=O13X14TGtm8
+
+
+
+
+link configurar proyecto spring
+:https://start.spring.io/
